@@ -1,0 +1,35 @@
+ETE101  Introduction to Telecommunication Engineering
+ETE103  Structured Programming
+ETE105  Computer Fundamentals and Programming Language
+ETE107  Electrical Circuits - I
+ETE207  Electrical Circuits - II
+ETE212  Electronic Circuits - I
+ETE214  Electronic Circuits - II
+ETE216  Signals & Systems
+ETE219  Electronic Properties of Materials
+ETE282  Renewable Energy Technology
+ETE302  Computer Communications & Networks
+ETE310  Electromagnetic Theory
+ETE311  Digital Electronics
+ETE312  Communications Theory
+ETE314  Digital Communications
+ETE316  Microprocessors & Interfacing
+ETE322  Digital Signal Processing
+ETE350  Information Theory & Coding
+ETE399  Design & Simulation
+ETE401  VLSI Circuit Design
+ETE403  Optoelectronics
+ETE420  Introduction to Control Systems
+ETE430  RF & Microwave Engineering
+ETE441  Wireless & Mobile Communications
+ETE442  Optical Fiber Communications
+ETE444  Telecommunication Networks & Switching
+ETE450  Communications & Network Security
+ETE452  Multimedia Communications
+ETE456  Wireless Networks
+ETE461  Object Oriented Programming
+ETE463  Data Structure & Algorithms
+ETE465  Database Systems, Software Analysis & Design
+ETE470  Applied Numerical Methods
+ETE472  Speech & Image Processing
+ETE475  Artificial Intelligence & Expert Systems
